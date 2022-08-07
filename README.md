@@ -4,5 +4,5 @@ Toy SVM-based text classification of financial sentiment for evaluating the Deve
 
 ## Questionnaires
 
-- [AI/ML deployment best-practices adoption](https://forms.gle/976qnaZPC6LPgfDK6)
+- [AI/ML deployment best-practices adoption](https://forms.gle/byf33nxgPKLyAugp6)
 - [Technology acceptance model](https://forms.gle/qcjtoajdUYQsFwcEA)
