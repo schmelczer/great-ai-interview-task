@@ -3,3 +3,4 @@ __pycache__
 .ipynb_checkpoints
 tracing_database.json
 __deploy__.ipynb
+.env
